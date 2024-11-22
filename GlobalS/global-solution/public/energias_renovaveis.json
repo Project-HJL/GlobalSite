@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Itaipu Dam",
+    "type": "Usina Hidrelétrica",
+    "latitude": -25.3975,
+    "longitude": -54.5852,
+    "country": "Brasil/Paraguai",
+    "description": "Uma das maiores usinas hidrelétricas do mundo, localizada no rio Paraná, na fronteira entre Brasil e Paraguai.",
+    "image": "itaipu.jpg",
+    "link": "https://www.itaipu.gov.br/"
+  },
+  {
+    "name": "Three Gorges Dam",
+    "type": "Usina Hidrelétrica",
+    "latitude": 30.8223,
+    "longitude": 111.0000,
+    "country": "China",
+    "description": "A maior usina hidrelétrica do mundo, localizada no rio Yangtzé, na China.",
+    "image": "three-gorges.jpg",
+    "link": "https://www.cgw.cn/en/"
+  },
+
+
+
+
+
+
+
+  
+ 
+  {
+    "name": "Hornsea Wind Farm",
+    "type": "Fazenda Eólica",
+    "latitude": 53.8801,
+    "longitude": -0.6547,
+    "country": "Reino Unido",
+    "description": "O maior parque eólico offshore do mundo, localizado no Mar do Norte, perto da costa do Reino Unido.",
+    "image": "hornsea.jpg",
+    "link": "https://www.orsted.com/en/our-business/hornsea-projects"
+  },
+  {
+    "name": "Solar Star",
+    "type": "Fazenda Solar",
+    "latitude": 34.9104,
+    "longitude": -115.7166,
+    "country": "EUA",
+    "description": "Uma das maiores fazendas solares dos Estados Unidos, localizada na Califórnia.",
+    "image": "solar-star.jpg",
+    "link": "https://www.solarstar.com/"
+  },
+  {
+    "name": "Gemasolar Thermosolar Plant",
+    "type": "Fazenda Solar",
+    "latitude": 37.5667,
+    "longitude": -3.6000,
+    "country": "Espanha",
+    "description": "Uma planta solar de concentração em Ubeda, Espanha, conhecida pela sua capacidade de operar 24 horas por dia.",
+    "image": "gemasolar.jpg",
+    "link": "https://www.renewablesnow.com/news/gemasolar-plant-in-spain-delivers-first-electrical-output-312777/"
+  },
+  {
+    "name": "Gansu Wind Farm",
+    "type": "Fazenda Eólica",
+    "latitude": 39.4667,
+    "longitude": 96.4667,
+    "country": "China",
+    "description": "Um dos maiores projetos de energia eólica do mundo, localizado na província de Gansu, China.",
+    "image": "gansu-wind.jpg",
+    "link": "https://www.china.org.cn/environment/2019-07/18/content_74999314.htm"
+  },
+  {
+    "name": "Ouarzazate Solar Complex",
+    "type": "Fazenda Solar",
+    "latitude": 30.0456,
+    "longitude": -6.9983,
+    "country": "Marrocos",
+    "description": "O maior complexo solar do mundo em termos de capacidade, localizado no deserto de Ouarzazate, Marrocos.",
+    "image": "ouarzazate.jpg",
+    "link": "https://www.masen.ma/en/solar"
+  },
+  {
+    "name": "Lake Turkana Wind Power",
+    "type": "Fazenda Eólica",
+    "latitude": 2.7030,
+    "longitude": 36.6467,
+    "country": "Quênia",
+    "description": "O maior parque eólico da África, localizado no norte do Quênia, fornecendo energia para o país.",
+    "image": "turkana-wind.jpg",
+    "link": "https://www.lake-turkana-wind-power.com/"
+  },
+  {
+    "name": "Alta Wind Energy Center",
+    "type": "Fazenda Eólica",
+    "latitude": 35.1353,
+    "longitude": -118.1608,
+    "country": "EUA",
+    "description": "Um dos maiores centros de energia eólica dos Estados Unidos, localizado na Califórnia.",
+    "image": "alta-wind.jpg",
+    "link": "https://www.enelgreenpower.com/our-projects"
+  },
+  {
+    "name": "Bokpoort Solar Thermal Power Plant",
+    "type": "Fazenda Solar",
+    "latitude": -27.5313,
+    "longitude": 19.4364,
+    "country": "África do Sul",
+    "description": "Uma planta solar térmica localizada na África do Sul, conhecida por sua tecnologia inovadora de armazenamento de energia.",
+    "image": "bokpoort.jpg",
+    "link": "https://www.solarthermalworld.org/content/bokpoort-solar-thermal-plant"
+  },
+  {
+    "name": "Sihwa Lake Tidal Power Station",
+    "type": "Usina de Energia das Marés",
+    "latitude": 37.3947,
+    "longitude": 126.6622,
+    "country": "Coreia do Sul",
+    "description": "A maior usina de energia das marés do mundo, localizada no Lago Sihwa, na Coreia do Sul.",
+    "image": "sihwa-lake.jpg",
+    "link": "https://www.renewableenergyworld.com/ocean-energy/sihwa-lake-tidal-power-plant/"
+  },
+  {
+    "name": "Monegros Solar Plant",
+    "type": "Fazenda Solar",
+    "latitude": 41.8910,
+    "longitude": -0.0532,
+    "country": "Espanha",
+    "description": "Uma grande fazenda solar localizada na região de Monegros, na Espanha.",
+    "image": "monegros-solar.jpg",
+    "link": "https://www.iberdrola.com/sustainability/monegros-solar-project"
+  },
+  {
+    "name": "Cape Wind",
+    "type": "Fazenda Eólica",
+    "latitude": 41.5394,
+    "longitude": -70.2311,
+    "country": "EUA",
+    "description": "Uma fazenda eólica offshore localizada na costa de Massachusetts, EUA.",
+    "image": "cape-wind.jpg",
+    "link": "https://www.capewind.org/"
+  },
+  {
+    "name": "Diama Solar Power Plant",
+    "type": "Fazenda Solar",
+    "latitude": 16.6696,
+    "longitude": -15.7675,
+    "country": "Senegal",
+    "description": "Planta solar localizada em Diama, Senegal, que visa aumentar a produção de energia renovável no país.",
+    "image": "diama-solar.jpg",
+    "link": "https://www.afdb.org/en/news-and-events/press-releases/diama-solar-power-plant-launched-38111"
+  },
+  {
+    "name": "Quebec Hydroelectric Complex",
+    "type": "Usina Hidrelétrica",
+    "latitude": 49.2800,
+    "longitude": -71.8000,
+    "country": "Canadá",
+    "description": "Um complexo de usinas hidrelétricas no Quebec, responsável por uma parte significativa da geração de energia no Canadá.",
+    "image": "quebec-hydro.jpg",
+    "link": "https://www.hydroquebec.com/"
+  },
+  {
+    "name": "Negev Solar Energy Plant",
+    "type": "Fazenda Solar",
+    "latitude": 31.5000,
+    "longitude": 34.7500,
+    "country": "Israel",
+    "description": "A maior fazenda solar de Israel, localizada no deserto de Negev.",
+    "image": "negev-solar.jpg",
+    "link": "https://www.iec.co.il/en/"
+  },
+  {
+    "name": "Pampa Energia Solar",
+    "type": "Fazenda Solar",
+    "latitude": -27.3913,
+    "longitude": -60.3481,
+    "country": "Argentina",
+    "description": "Uma fazenda solar na Argentina que ajuda a impulsionar a geração de energia renovável no país.",
+    "image": "pampa-energia.jpg",
+    "link": "https://www.pampaenergia.com/"
+  },
+  {
+    "name": "China Wind Power",
+    "type": "Fazenda Eólica",
+    "latitude": 38.7587,
+    "longitude": 106.3505,
+    "country": "China",
+    "description": "Um grande projeto de energia eólica localizado na China, contribuindo para o fornecimento de energia renovável.",
+    "image": "china-wind.jpg",
+    "link": "https://www.china.org.cn/business/2021-11/18/content_77824899.htm"
+  }
+]
